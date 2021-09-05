@@ -1,1 +1,3 @@
-//test
+'use strict';
+
+require('./src/caps')
